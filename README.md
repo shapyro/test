@@ -2,13 +2,13 @@
 
 
 ### Contents
-- [FI Action Items](##fi-action-items)
-- [Difficulty](##difficulty)
-- [Known Fees](##known-fees)
-- [Interest Details](##interest-details)
-- [Extracts](##extracts)
-- [Posting Files](##posting-files)
-- [Product Setup](##product-setup)
+- [FI Action Items](#fi-action-items)
+- [Difficulty](#difficulty)
+- [Known Fees](#known-fees)
+- [Interest Details](#interest-details)
+- [Extracts](#extracts)
+- [Posting Files](#posting-files)
+- [Product Setup](#product-setup)
 
 ## FI Action Items
 
