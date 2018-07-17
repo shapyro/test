@@ -5,7 +5,7 @@
 - [FI Action Items](#fiactionitems)
 - [Difficulty](#difficulty)
 - [Known Fees](#knownfees)
-- [Interest Details](#interest)
+- [Interest Details](#interestdetails)
 - [Extracts](#extracts)
 - [Posting Files](#postingfiles)
 - [Product Setup](#productsetup)
@@ -28,7 +28,7 @@ NA
 NA
 
 
-## Interest
+## Interest Details
 
 Kasasa performs an interest debit adjustment to accrual
 
